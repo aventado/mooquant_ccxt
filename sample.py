@@ -1,5 +1,3 @@
-# coding=utf-8
-
 from mooquant import strategy
 from mooquant.analyzer import sharpe
 from mooquant.technical import ma

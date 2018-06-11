@@ -16,8 +16,9 @@
 # limitations under the License.
 
 """
-.. moduleauthor:: bopo.wang <ibopo@126.com>
+.. moduleauthor:: BoPo Wang <ibopo@126.com>
 """
+
 import datetime
 
 from mooquant import bar
